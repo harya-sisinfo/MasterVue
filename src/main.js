@@ -8,6 +8,8 @@ import store from './store'
 // axios
 import axios from 'axios';
 import VueAxios from 'vue-axios';
+// Session
+import VueSession from "vue-session";
 
 Vue.config.productionTip = false
 
